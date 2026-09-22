@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently working on web/mobile development
 - 🌱 I'm currently learning MERN stack programing
-- 📫 How to reach me: hamza.elglaoui00@gmail.com
+
 
 
